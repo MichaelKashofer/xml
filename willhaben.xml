@@ -1,5 +1,5 @@
 <openimmo>
-  <uebertragung art="ONLINE" umfang="VOLL" modus="NEW" version="1.2.7" sendersoftware="BoomLiving" senderversion="0.1" timestamp="2025-07-29T14:51:33"/>
+  <uebertragung art="ONLINE" umfang="VOLL" modus="NEW" version="1.2.7" sendersoftware="BoomLiving" senderversion="0.1" timestamp="2025-07-30T09:57:09"/>
   <anbieter>
     <anbieternr>012.0015I000004BTWu</anbieternr>
     <firma>Boom Living GmbH</firma>
@@ -14,8 +14,11 @@
       </objektkategorie>
       <geo>
         <plz>1020</plz>
+        <ort>innere stadt</ort>
         <geokoordinaten breitengrad="48.2100330000000000" laengengrad="16.3634490000000000"/>
+        <strasse>innere stadt</strasse>
         <bundesland>Wien</bundesland>
+        <land iso_land="AUT"/>
         <etage>2</etage>
       </geo>
       <kontaktperson>
@@ -56,7 +59,7 @@
         <objektnr_extern>446</objektnr_extern>
         <aktion/>
         <openimmo_obid>446</openimmo_obid>
-        <stand_vom>2025-07-29</stand_vom>
+        <stand_vom>2025-07-30</stand_vom>
       </verwaltung_techn>
     </immobilie>
   </anbieter>
